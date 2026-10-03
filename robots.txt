@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://livelymindandwellness.com/sitemap.xml
+Sitemap: https://livelymentalhealth.org/sitemap.xml
